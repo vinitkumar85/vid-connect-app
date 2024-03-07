@@ -1,0 +1,17 @@
+# compiled output
+
+/node_modules
+/dist
+/dist/*
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+/ssh
+docker.txt
+/uploads
